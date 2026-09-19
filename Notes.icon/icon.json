@@ -1,0 +1,700 @@
+{
+  "fill" : {
+    "solid" : "extended-gray:1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document 2-3.svg",
+          "name" : "Untitled Document 2-3",
+          "position-specializations" : [
+            {
+              "value" : {
+                "scale" : 1,
+                "translation-in-points" : [
+                  -0.17304687499995453,
+                  104.4765625
+                ]
+              }
+            },
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.21,
+                "translation-in-points" : [
+                  -16.890443359375013,
+                  44.55859375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document 2-3.svg",
+          "name" : "Untitled Document 2-3",
+          "position-specializations" : [
+            {
+              "value" : {
+                "scale" : 1,
+                "translation-in-points" : [
+                  -0.17304687499995453,
+                  104.4765625
+                ]
+              }
+            },
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.21,
+                "translation-in-points" : [
+                  -8.028330078125009,
+                  233.33203125
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document 2-3.svg",
+          "name" : "Untitled Document 2-3",
+          "position-specializations" : [
+            {
+              "value" : {
+                "scale" : 1,
+                "translation-in-points" : [
+                  -0.17304687499995453,
+                  104.4765625
+                ]
+              }
+            },
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.21,
+                "translation-in-points" : [
+                  -8.028330078125009,
+                  233.33203125
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document 2-3.svg",
+          "name" : "Untitled Document 2-3",
+          "position-specializations" : [
+            {
+              "value" : {
+                "scale" : 1,
+                "translation-in-points" : [
+                  -0.17304687499995453,
+                  104.4765625
+                ]
+              }
+            },
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.21,
+                "translation-in-points" : [
+                  -8.028330078125009,
+                  233.33203125
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -355.3984375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -445.7109375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -313.33203125,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  15.124656250000044,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -24.25,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -63.37890625,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  489.3671875,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  452.5546875,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  412.7109375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  374.4375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  336.86328125,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  295.8125,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  257.19140625,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  217.96484375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  179.30859375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  138.7578125,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  96.984375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  96.984375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  96.984375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  56.359375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -107.07421875,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -148.80078125,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -189.22265625,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -228.76171875,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -269.8046875,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -401.7734375,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.04,
+                "translation-in-points" : [
+                  -489.0390625,
+                  -183.21484375
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-srgb:1.00000,0.80000,0.00000,1.00000"
+          },
+          "image-name" : "Untitled Document-2.svg",
+          "name" : "Untitled Document-2",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 2.3,
+                "translation-in-points" : [
+                  15.239656250000053,
+                  -1029.09765625
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

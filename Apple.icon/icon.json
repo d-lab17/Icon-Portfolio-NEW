@@ -1,0 +1,122 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "linear-gradient" : [
+                  "extended-gray:0.00000,1.00000",
+                  "display-p3:0.54632,0.54632,0.54632,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.5000000000000001,
+                    "y" : 0.5517389922036181
+                  },
+                  "stop" : {
+                    "x" : 0.3479535275396862,
+                    "y" : 0.6565606133232705
+                  }
+                }
+              }
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "automatic"
+            }
+          ],
+          "glass" : false,
+          "hidden" : true,
+          "image-name" : "Untitled Document 2-4.svg",
+          "name" : "Untitled Document 2-4",
+          "opacity" : 0.73,
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 3.93,
+                "translation-in-points" : [
+                  319.34605644828343,
+                  -289.14294931627603
+                ]
+              }
+            },
+            {
+              "idiom" : "watchOS",
+              "value" : {
+                "scale" : 4.25,
+                "translation-in-points" : [
+                  378.4451697426864,
+                  -349.1821810657906
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "extended-gray:0.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "tinted",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "glass" : true,
+          "image-name" : "Apple_logo_black.svg",
+          "name" : "Apple_logo_black",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.59,
+                "translation-in-points" : [
+                  0,
+                  -13.445172463682297
+                ]
+              }
+            },
+            {
+              "idiom" : "watchOS",
+              "value" : {
+                "scale" : 0.54,
+                "translation-in-points" : [
+                  0.708279292904308,
+                  -18.50010757247651
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

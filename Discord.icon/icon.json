@@ -1,0 +1,116 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "extended-srgb:1.00000,0.80000,0.00000,1.00000",
+      "extended-srgb:0.38039,0.33333,0.96078,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "hidden" : true,
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "extended-gray:1.00000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "discord-communication-interaction-message-network-svgrepo-com.svg",
+          "name" : "discord-communication-interaction-message-network-svgrepo-com",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -0.004000000000019099,
+              0.0026981912369592465
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    },
+    {
+      "hidden" : true,
+      "layers" : [
+        {
+          "fill" : "system-light",
+          "image-name" : "discord-outline-svgrepo-com.svg",
+          "name" : "discord-outline-svgrepo-com",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              14.880046420445524,
+              33.33333333333326
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    },
+    {
+      "hidden" : true,
+      "layers" : [
+        {
+          "fill" : "system-light",
+          "image-name" : "discord-alt-5-svgrepo-com.svg",
+          "name" : "discord-alt-5-svgrepo-com",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.08,
+                "translation-in-points" : [
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    },
+    {
+      "layers" : [
+        {
+          "fill" : "system-light",
+          "image-name" : "discord-svgrepo-com.svg",
+          "name" : "discord-svgrepo-com"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

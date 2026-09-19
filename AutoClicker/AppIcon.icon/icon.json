@@ -1,0 +1,173 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "extended-srgb:0.00000,0.75294,0.90980,1.00000",
+      "extended-srgb:0.20392,0.78039,0.34902,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "display-p3:0.00000,0.00000,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "system-light"
+            }
+          ],
+          "glass-specializations" : [
+            {
+              "value" : true
+            },
+            {
+              "appearance" : "tinted",
+              "value" : true
+            }
+          ],
+          "hidden-specializations" : [
+            {
+              "value" : false
+            },
+            {
+              "idiom" : "square",
+              "value" : false
+            }
+          ],
+          "image-name" : "Untitled Document 4-4.svg",
+          "name" : "Untitled Document 4-4",
+          "opacity-specializations" : [
+            {
+              "appearance" : "tinted",
+              "value" : 0.53
+            }
+          ],
+          "position-specializations" : [
+            {
+              "value" : {
+                "scale" : 0.59,
+                "translation-in-points" : [
+                  267.30869658394886,
+                  203.53612434674392
+                ]
+              }
+            },
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 0.51,
+                "translation-in-points" : [
+                  183.85500000000002,
+                  187.25046874999998
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    },
+    {
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "extended-srgb:0.00000,0.75294,0.90980,1.00000",
+                  "extended-srgb:0.20392,0.78039,0.34902,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.16297765041533402,
+                    "y" : 0.05685282719448128
+                  },
+                  "stop" : {
+                    "x" : 1,
+                    "y" : 1.0350796017383235
+                  }
+                }
+              }
+            },
+            {
+              "appearance" : "tinted",
+              "value" : {
+                "solid" : "extended-gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.17,
+                "translation-in-points" : [
+                  0,
+                  -87.89453125
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "fill" : {
+            "solid" : "extended-gray:0.50000,1.00000"
+          },
+          "image-name" : "Untitled Document.svg",
+          "name" : "Untitled Document",
+          "position-specializations" : [
+            {
+              "idiom" : "square",
+              "value" : {
+                "scale" : 1.32,
+                "translation-in-points" : [
+                  0,
+                  -87.89453125
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
